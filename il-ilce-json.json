@@ -1,0 +1,4795 @@
+{
+	"data":
+	[
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "SEYHAN"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "YÜREĞİR"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "SARIÇAM"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "ÇUKUROVA"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "ALADAĞ(KARSANTI)"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "CEYHAN"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "FEKE"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "İMAMOĞLU"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "KARAİSALI"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "KARATAŞ"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "KOZAN"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "POZANTI"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "SAİMBEYLİ"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "TUFANBEYLİ"
+		},
+		{
+			"il_id": 1,
+			"isim": "ADANA",
+			"isim": "YUMURTALIK"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "ADIYAMAN"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "BESNİ"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "ÇELİKHAN"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "GERGER"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "GÖLBAŞI"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "KAHTA"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "SAMSAT"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "SİNCİK"
+		},
+		{
+			"il_id": 2,
+			"isim": "ADIYAMAN",
+			"isim": "TUT"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "AFYONKARAHİSAR"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "BAŞMAKÇI"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "BAYAT"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "BOLVADİN"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "ÇAY"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "ÇOBANLAR"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "DAZKIRI"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "DİNAR"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "EMİRDAĞ"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "EVCİLER"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "HOCALAR"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "İHSANİYE"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "İSCEHİSAR"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "KIZILÖREN"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "SANDIKLI"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "SİNCANLI(SİNANPAŞA)"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "SULTANDAĞI"
+		},
+		{
+			"il_id": 3,
+			"isim": "AFYONKARAHİSAR",
+			"isim": "ŞUHUT"
+		},
+		{
+			"il_id": 4,
+			"isim": "AĞRI",
+			"isim": "AĞRI"
+		},
+		{
+			"il_id": 4,
+			"isim": "AĞRI",
+			"isim": "DİYADİN"
+		},
+		{
+			"il_id": 4,
+			"isim": "AĞRI",
+			"isim": "DOĞUBEYAZIT"
+		},
+		{
+			"il_id": 4,
+			"isim": "AĞRI",
+			"isim": "ELEŞKİRT"
+		},
+		{
+			"il_id": 4,
+			"isim": "AĞRI",
+			"isim": "HAMUR"
+		},
+		{
+			"il_id": 4,
+			"isim": "AĞRI",
+			"isim": "PATNOS"
+		},
+		{
+			"il_id": 4,
+			"isim": "AĞRI",
+			"isim": "TAŞLIÇAY"
+		},
+		{
+			"il_id": 4,
+			"isim": "AĞRI",
+			"isim": "TUTAK"
+		},
+		{
+			"il_id": 5,
+			"isim": "AMASYA",
+			"isim": "AMASYA"
+		},
+		{
+			"il_id": 5,
+			"isim": "AMASYA",
+			"isim": "GÖYNÜCEK"
+		},
+		{
+			"il_id": 5,
+			"isim": "AMASYA",
+			"isim": "GÜMÜŞHACIKÖY"
+		},
+		{
+			"il_id": 5,
+			"isim": "AMASYA",
+			"isim": "HAMAMÖZÜ"
+		},
+		{
+			"il_id": 5,
+			"isim": "AMASYA",
+			"isim": "MERZİFON"
+		},
+		{
+			"il_id": 5,
+			"isim": "AMASYA",
+			"isim": "SULUOVA"
+		},
+		{
+			"il_id": 5,
+			"isim": "AMASYA",
+			"isim": "TAŞOVA"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "ALTINDAĞ"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "ÇANKAYA"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "ETİMESGUT"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "KEÇİÖREN"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "MAMAK"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "SİNCAN"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "YENİMAHALLE"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "GÖLBAŞI"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "PURSAKLAR"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "AKYURT"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "AYAŞ"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "BALA"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "BEYPAZARI"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "ÇAMLIDERE"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "ÇUBUK"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "ELMADAĞ"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "EVREN"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "GÜDÜL"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "HAYMANA"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "KALECİK"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "KAZAN"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "KIZILCAHAMAM"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "NALLIHAN"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "POLATLI"
+		},
+		{
+			"il_id": 6,
+			"isim": "ANKARA",
+			"isim": "ŞEREFLİKOÇHİSAR"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "MURATPAŞA"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "KEPEZ"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "KONYAALTI"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "AKSU"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "DÖŞEMEALTI"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "AKSEKİ"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "ALANYA"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "ELMALI"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "FİNİKE"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "GAZİPAŞA"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "GÜNDOĞMUŞ"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "İBRADI(AYDINKENT)"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "KALE(DEMRE)"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "KAŞ"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "KEMER"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "KORKUTELİ"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "KUMLUCA"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "MANAVGAT"
+		},
+		{
+			"il_id": 7,
+			"isim": "ANTALYA",
+			"isim": "SERİK"
+		},
+		{
+			"il_id": 8,
+			"isim": "ARTVİN",
+			"isim": "ARTVİN"
+		},
+		{
+			"il_id": 8,
+			"isim": "ARTVİN",
+			"isim": "ARDANUÇ"
+		},
+		{
+			"il_id": 8,
+			"isim": "ARTVİN",
+			"isim": "ARHAVİ"
+		},
+		{
+			"il_id": 8,
+			"isim": "ARTVİN",
+			"isim": "BORÇKA"
+		},
+		{
+			"il_id": 8,
+			"isim": "ARTVİN",
+			"isim": "HOPA"
+		},
+		{
+			"il_id": 8,
+			"isim": "ARTVİN",
+			"isim": "MURGUL(GÖKTAŞ)"
+		},
+		{
+			"il_id": 8,
+			"isim": "ARTVİN",
+			"isim": "ŞAVŞAT"
+		},
+		{
+			"il_id": 8,
+			"isim": "ARTVİN",
+			"isim": "YUSUFELİ"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "AYDIN"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "BOZDOĞAN"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "BUHARKENT(ÇUBUKDAĞI)"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "ÇİNE"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "GERMENCİK"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "İNCİRLİOVA"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "KARACASU"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "KARPUZLU"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "KOÇARLI"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "KÖŞK"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "KUŞADASI"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "KUYUCAK"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "NAZİLLİ"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "SÖKE"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "SULTANHİSAR"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "DİDİM(YENİHİSAR)"
+		},
+		{
+			"il_id": 9,
+			"isim": "AYDIN",
+			"isim": "YENİPAZAR"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "BALIKESİR"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "AYVALIK"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "BALYA"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "BANDIRMA"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "BİGADİÇ"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "BURHANİYE"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "DURSUNBEY"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "EDREMİT"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "ERDEK"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "GÖMEÇ"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "GÖNEN"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "HAVRAN"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "İVRİNDİ"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "KEPSUT"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "MANYAS"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "MARMARA"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "SAVAŞTEPE"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "SINDIRGI"
+		},
+		{
+			"il_id": 10,
+			"isim": "BALIKESİR",
+			"isim": "SUSURLUK"
+		},
+		{
+			"il_id": 11,
+			"isim": "BİLECİK",
+			"isim": "BİLECİK"
+		},
+		{
+			"il_id": 11,
+			"isim": "BİLECİK",
+			"isim": "BOZÜYÜK"
+		},
+		{
+			"il_id": 11,
+			"isim": "BİLECİK",
+			"isim": "GÖLPAZARI"
+		},
+		{
+			"il_id": 11,
+			"isim": "BİLECİK",
+			"isim": "İNHİSAR"
+		},
+		{
+			"il_id": 11,
+			"isim": "BİLECİK",
+			"isim": "OSMANELİ"
+		},
+		{
+			"il_id": 11,
+			"isim": "BİLECİK",
+			"isim": "PAZARYERİ"
+		},
+		{
+			"il_id": 11,
+			"isim": "BİLECİK",
+			"isim": "SÖĞÜT"
+		},
+		{
+			"il_id": 11,
+			"isim": "BİLECİK",
+			"isim": "YENİPAZAR"
+		},
+		{
+			"il_id": 12,
+			"isim": "BİNGÖL",
+			"isim": "BİNGÖL"
+		},
+		{
+			"il_id": 12,
+			"isim": "BİNGÖL",
+			"isim": "ADAKLI"
+		},
+		{
+			"il_id": 12,
+			"isim": "BİNGÖL",
+			"isim": "GENÇ"
+		},
+		{
+			"il_id": 12,
+			"isim": "BİNGÖL",
+			"isim": "KARLIOVA"
+		},
+		{
+			"il_id": 12,
+			"isim": "BİNGÖL",
+			"isim": "KIĞI"
+		},
+		{
+			"il_id": 12,
+			"isim": "BİNGÖL",
+			"isim": "SOLHAN"
+		},
+		{
+			"il_id": 12,
+			"isim": "BİNGÖL",
+			"isim": "YAYLADERE"
+		},
+		{
+			"il_id": 12,
+			"isim": "BİNGÖL",
+			"isim": "YEDİSU"
+		},
+		{
+			"il_id": 13,
+			"isim": "BİTLİS",
+			"isim": "BİTLİS"
+		},
+		{
+			"il_id": 13,
+			"isim": "BİTLİS",
+			"isim": "ADİLCEVAZ"
+		},
+		{
+			"il_id": 13,
+			"isim": "BİTLİS",
+			"isim": "AHLAT"
+		},
+		{
+			"il_id": 13,
+			"isim": "BİTLİS",
+			"isim": "GÜROYMAK"
+		},
+		{
+			"il_id": 13,
+			"isim": "BİTLİS",
+			"isim": "HİZAN"
+		},
+		{
+			"il_id": 13,
+			"isim": "BİTLİS",
+			"isim": "MUTKİ"
+		},
+		{
+			"il_id": 13,
+			"isim": "BİTLİS",
+			"isim": "TATVAN"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "BOLU"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "DÖRTDİVAN"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "GEREDE"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "GÖYNÜK"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "KIBRISCIK"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "MENGEN"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "MUDURNU"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "SEBEN"
+		},
+		{
+			"il_id": 14,
+			"isim": "BOLU",
+			"isim": "YENİÇAĞA"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "BURDUR"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "AĞLASUN"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "ALTINYAYLA(DİRMİL)"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "BUCAK"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "ÇAVDIR"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "ÇELTİKÇİ"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "GÖLHİSAR"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "KARAMANLI"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "KEMER"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "TEFENNİ"
+		},
+		{
+			"il_id": 15,
+			"isim": "BURDUR",
+			"isim": "YEŞİLOVA"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "NİLÜFER"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "OSMANGAZİ"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "YILDIRIM"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "BÜYÜKORHAN"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "GEMLİK"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "GÜRSU"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "HARMANCIK"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "İNEGÖL"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "İZNİK"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "KARACABEY"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "KELES"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "KESTEL"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "MUDANYA"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "MUSTAFAKEMALPAŞA"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "ORHANELİ"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "ORHANGAZİ"
+		},
+		{
+			"il_id": 16,
+			"isim": "BURSA",
+			"isim": "YENİŞEHİR"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "ÇANAKKALE"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "AYVACIK"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "BAYRAMİÇ"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "BİGA"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "BOZCAADA"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "ÇAN"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "ECEABAT"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "EZİNE"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "GELİBOLU"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "GÖKÇEADA(İMROZ)"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "LAPSEKİ"
+		},
+		{
+			"il_id": 17,
+			"isim": "ÇANAKKALE",
+			"isim": "YENİCE"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "ÇANKIRI"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "ATKARACALAR"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "BAYRAMÖREN"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "ÇERKEŞ"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "ELDİVAN"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "ILGAZ"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "KIZILIRMAK"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "KORGUN"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "KURŞUNLU"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "ORTA"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "ŞABANÖZÜ"
+		},
+		{
+			"il_id": 18,
+			"isim": "ÇANKIRI",
+			"isim": "YAPRAKLI"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "ÇORUM"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "ALACA"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "BAYAT"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "BOĞAZKALE"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "DODURGA"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "İSKİLİP"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "KARGI"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "LAÇİN"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "MECİTÖZÜ"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "OĞUZLAR(KARAÖREN)"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "ORTAKÖY"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "OSMANCIK"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "SUNGURLU"
+		},
+		{
+			"il_id": 19,
+			"isim": "ÇORUM",
+			"isim": "UĞURLUDAĞ"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "DENİZLİ"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "ACIPAYAM"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "AKKÖY"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "BABADAĞ"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "BAKLAN"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "BEKİLLİ"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "BEYAĞAÇ"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "BOZKURT"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "BULDAN"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "ÇAL"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "ÇAMELİ"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "ÇARDAK"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "ÇİVRİL"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "GÜNEY"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "HONAZ"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "KALE"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "SARAYKÖY"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "SERİNHİSAR"
+		},
+		{
+			"il_id": 20,
+			"isim": "DENİZLİ",
+			"isim": "TAVAS"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "SUR"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "BAĞLAR"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "YENİŞEHİR"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "KAYAPINAR"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "BİSMİL"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "ÇERMİK"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "ÇINAR"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "ÇÜNGÜŞ"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "DİCLE"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "EĞİL"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "ERGANİ"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "HANİ"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "HAZRO"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "KOCAKÖY"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "KULP"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "LİCE"
+		},
+		{
+			"il_id": 21,
+			"isim": "DİYARBAKIR",
+			"isim": "SİLVAN"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "EDİRNE"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "ENEZ"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "HAVSA"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "İPSALA"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "KEŞAN"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "LALAPAŞA"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "MERİÇ"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "SÜLEOĞLU(SÜLOĞLU)"
+		},
+		{
+			"il_id": 22,
+			"isim": "EDİRNE",
+			"isim": "UZUNKÖPRÜ"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "ELAZIĞ"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "AĞIN"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "ALACAKAYA"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "ARICAK"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "BASKİL"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "KARAKOÇAN"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "KEBAN"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "KOVANCILAR"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "MADEN"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "PALU"
+		},
+		{
+			"il_id": 23,
+			"isim": "ELAZIĞ",
+			"isim": "SİVRİCE"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "ERZİNCAN"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "ÇAYIRLI"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "İLİÇ(ILIÇ)"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "KEMAH"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "KEMALİYE"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "OTLUKBELİ"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "REFAHİYE"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "TERCAN"
+		},
+		{
+			"il_id": 24,
+			"isim": "ERZİNCAN",
+			"isim": "ÜZÜMLÜ"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "PALANDÖKEN"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "YAKUTİYE"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "AZİZİYE(ILICA)"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "AŞKALE"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "ÇAT"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "HINIS"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "HORASAN"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "İSPİR"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "KARAÇOBAN"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "KARAYAZI"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "KÖPRÜKÖY"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "NARMAN"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "OLTU"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "OLUR"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "PASİNLER"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "PAZARYOLU"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "ŞENKAYA"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "TEKMAN"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "TORTUM"
+		},
+		{
+			"il_id": 25,
+			"isim": "ERZURUM",
+			"isim": "UZUNDERE"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "ODUNPAZARI"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "TEPEBAŞI"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "ALPU"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "BEYLİKOVA"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "ÇİFTELER"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "GÜNYÜZÜ"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "HAN"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "İNÖNÜ"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "MAHMUDİYE"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "MİHALGAZİ"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "MİHALIÇCIK"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "SARICAKAYA"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "SEYİTGAZİ"
+		},
+		{
+			"il_id": 26,
+			"isim": "ESKİŞEHİR",
+			"isim": "SİVRİHİSAR"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "ŞAHİNBEY"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "ŞEHİTKAMİL"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "OĞUZELİ"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "ARABAN"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "İSLAHİYE"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "KARKAMIŞ"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "NİZİP"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "NURDAĞI"
+		},
+		{
+			"il_id": 27,
+			"isim": "GAZİANTEP",
+			"isim": "YAVUZELİ"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "GİRESUN"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "ALUCRA"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "BULANCAK"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "ÇAMOLUK"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "ÇANAKÇI"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "DERELİ"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "DOĞANKENT"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "ESPİYE"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "EYNESİL"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "GÖRELE"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "GÜCE"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "KEŞAP"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "PİRAZİZ"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "ŞEBİNKARAHİSAR"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "TİREBOLU"
+		},
+		{
+			"il_id": 28,
+			"isim": "GİRESUN",
+			"isim": "YAĞLIDERE"
+		},
+		{
+			"il_id": 29,
+			"isim": "GÜMÜŞHANE",
+			"isim": "GÜMÜŞHANE"
+		},
+		{
+			"il_id": 29,
+			"isim": "GÜMÜŞHANE",
+			"isim": "KELKİT"
+		},
+		{
+			"il_id": 29,
+			"isim": "GÜMÜŞHANE",
+			"isim": "KÖSE"
+		},
+		{
+			"il_id": 29,
+			"isim": "GÜMÜŞHANE",
+			"isim": "KÜRTÜN"
+		},
+		{
+			"il_id": 29,
+			"isim": "GÜMÜŞHANE",
+			"isim": "ŞİRAN"
+		},
+		{
+			"il_id": 29,
+			"isim": "GÜMÜŞHANE",
+			"isim": "TORUL"
+		},
+		{
+			"il_id": 30,
+			"isim": "HAKKARİ",
+			"isim": "HAKKARİ"
+		},
+		{
+			"il_id": 30,
+			"isim": "HAKKARİ",
+			"isim": "ÇUKURCA"
+		},
+		{
+			"il_id": 30,
+			"isim": "HAKKARİ",
+			"isim": "ŞEMDİNLİ"
+		},
+		{
+			"il_id": 30,
+			"isim": "HAKKARİ",
+			"isim": "YÜKSEKOVA"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "ANTAKYA"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "ALTINÖZÜ"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "BELEN"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "DÖRTYOL"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "ERZİN"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "HASSA"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "İSKENDERUN"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "KIRIKHAN"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "KUMLU"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "REYHANLI"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "SAMANDAĞ"
+		},
+		{
+			"il_id": 31,
+			"isim": "HATAY",
+			"isim": "YAYLADAĞI"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "ISPARTA"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "AKSU"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "ATABEY"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "EĞRİDİR(EĞİRDİR)"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "GELENDOST"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "GÖNEN"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "KEÇİBORLU"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "SENİRKENT"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "SÜTÇÜLER"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "ŞARKİKARAAĞAÇ"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "ULUBORLU"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "YALVAÇ"
+		},
+		{
+			"il_id": 32,
+			"isim": "ISPARTA",
+			"isim": "YENİŞARBADEMLİ"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "AKDENİZ"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "YENİŞEHİR"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "TOROSLAR"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "MEZİTLİ"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "ANAMUR"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "AYDINCIK"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "BOZYAZI"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "ÇAMLIYAYLA"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "ERDEMLİ"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "GÜLNAR (GÜLPINAR)"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "MUT"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "SİLİFKE"
+		},
+		{
+			"il_id": 33,
+			"isim": "MERSİN(İÇEL)",
+			"isim": "TARSUS"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BAKIRKÖY"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BAYRAMPAŞA"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BEŞİKTAŞ"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BEYOĞLU"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ARNAVUTKÖY"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "EYÜP"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "FATİH"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "GAZİOSMANPAŞA"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "KAĞITHANE"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "KÜÇÜKÇEKMECE"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "SARIYER"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ŞİŞLİ"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ZEYTİNBURNU"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "AVCILAR"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "GÜNGÖREN"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BAHÇELİEVLER"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BAĞCILAR"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ESENLER"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BAŞAKŞEHİR"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BEYLİKDÜZÜ"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ESENYURT"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "SULTANGAZİ"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ADALAR"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BEYKOZ"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "KADIKÖY"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "KARTAL"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "PENDİK"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ÜMRANİYE"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ÜSKÜDAR"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "TUZLA"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "MALTEPE"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ATAŞEHİR"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ÇEKMEKÖY"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "SANCAKTEPE"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "BÜYÜKÇEKMECE"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ÇATALCA"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "SİLİVRİ"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "ŞİLE"
+		},
+		{
+			"il_id": 34,
+			"isim": "İSTANBUL",
+			"isim": "SULTANBEYLİ"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "ALİAĞA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "BALÇOVA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "BAYINDIR"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "BORNOVA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "BUCA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "ÇİĞLİ"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "FOÇA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "GAZİEMİR"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "GÜZELBAHÇE"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "KARŞIYAKA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "KEMALPAŞA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "KONAK"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "CUMAOVASI(MENDERES)"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "MENEMEN"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "NARLIDERE"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "SEFERİHİSAR"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "SELÇUK"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "TORBALI"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "URLA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "BAYRAKLI"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "KARABAĞLAR"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "BERGAMA"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "BEYDAĞ"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "ÇEŞME"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "DİKİLİ"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "KARABURUN"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "KINIK"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "KİRAZ"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "ÖDEMİŞ"
+		},
+		{
+			"il_id": 35,
+			"isim": "İZMİR",
+			"isim": "TİRE"
+		},
+		{
+			"il_id": 36,
+			"isim": "KARS",
+			"isim": "KARS"
+		},
+		{
+			"il_id": 36,
+			"isim": "KARS",
+			"isim": "AKYAKA"
+		},
+		{
+			"il_id": 36,
+			"isim": "KARS",
+			"isim": "ARPAÇAY"
+		},
+		{
+			"il_id": 36,
+			"isim": "KARS",
+			"isim": "DİGOR"
+		},
+		{
+			"il_id": 36,
+			"isim": "KARS",
+			"isim": "KAĞIZMAN"
+		},
+		{
+			"il_id": 36,
+			"isim": "KARS",
+			"isim": "SARIKAMIŞ"
+		},
+		{
+			"il_id": 36,
+			"isim": "KARS",
+			"isim": "SELİM"
+		},
+		{
+			"il_id": 36,
+			"isim": "KARS",
+			"isim": "SUSUZ"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "KASTAMONU"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "ABANA"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "AĞLI"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "ARAÇ"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "AZDAVAY"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "BOZKURT"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "CİDE"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "ÇATALZEYTİN"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "DADAY"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "DEVREKANİ"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "DOĞANYURT"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "HANÖNÜ(GÖKÇEAĞAÇ)"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "İHSANGAZİ"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "İNEBOLU"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "KÜRE"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "PINARBAŞI"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "SEYDİLER"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "ŞENPAZAR"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "TAŞKÖPRÜ"
+		},
+		{
+			"il_id": 37,
+			"isim": "KASTAMONU",
+			"isim": "TOSYA"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "KOCASİNAN"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "MELİKGAZİ"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "TALAS"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "AKKIŞLA"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "BÜNYAN"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "DEVELİ"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "FELAHİYE"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "HACILAR"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "İNCESU"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "ÖZVATAN(ÇUKUR)"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "PINARBAŞI"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "SARIOĞLAN"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "SARIZ"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "TOMARZA"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "YAHYALI"
+		},
+		{
+			"il_id": 38,
+			"isim": "KAYSERİ",
+			"isim": "YEŞİLHİSAR"
+		},
+		{
+			"il_id": 39,
+			"isim": "KIRKLARELİ",
+			"isim": "KIRKLARELİ"
+		},
+		{
+			"il_id": 39,
+			"isim": "KIRKLARELİ",
+			"isim": "BABAESKİ"
+		},
+		{
+			"il_id": 39,
+			"isim": "KIRKLARELİ",
+			"isim": "DEMİRKÖY"
+		},
+		{
+			"il_id": 39,
+			"isim": "KIRKLARELİ",
+			"isim": "KOFÇAZ"
+		},
+		{
+			"il_id": 39,
+			"isim": "KIRKLARELİ",
+			"isim": "LÜLEBURGAZ"
+		},
+		{
+			"il_id": 39,
+			"isim": "KIRKLARELİ",
+			"isim": "PEHLİVANKÖY"
+		},
+		{
+			"il_id": 39,
+			"isim": "KIRKLARELİ",
+			"isim": "PINARHİSAR"
+		},
+		{
+			"il_id": 39,
+			"isim": "KIRKLARELİ",
+			"isim": "VİZE"
+		},
+		{
+			"il_id": 40,
+			"isim": "KIRŞEHİR",
+			"isim": "KIRŞEHİR"
+		},
+		{
+			"il_id": 40,
+			"isim": "KIRŞEHİR",
+			"isim": "AKÇAKENT"
+		},
+		{
+			"il_id": 40,
+			"isim": "KIRŞEHİR",
+			"isim": "AKPINAR"
+		},
+		{
+			"il_id": 40,
+			"isim": "KIRŞEHİR",
+			"isim": "BOZTEPE"
+		},
+		{
+			"il_id": 40,
+			"isim": "KIRŞEHİR",
+			"isim": "ÇİÇEKDAĞI"
+		},
+		{
+			"il_id": 40,
+			"isim": "KIRŞEHİR",
+			"isim": "KAMAN"
+		},
+		{
+			"il_id": 40,
+			"isim": "KIRŞEHİR",
+			"isim": "MUCUR"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "İZMİT"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "BAŞİSKELE"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "ÇAYIROVA"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "DARICA"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "DİLOVASI"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "KARTEPE"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "GEBZE"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "GÖLCÜK"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "KANDIRA"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "KARAMÜRSEL"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "TÜTÜNÇİFTLİK"
+		},
+		{
+			"il_id": 41,
+			"isim": "KOCAELİ",
+			"isim": "DERİNCE"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "KARATAY"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "MERAM"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "SELÇUKLU"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "AHIRLI"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "AKÖREN"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "AKŞEHİR"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "ALTINEKİN"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "BEYŞEHİR"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "BOZKIR"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "CİHANBEYLİ"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "ÇELTİK"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "ÇUMRA"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "DERBENT"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "DEREBUCAK"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "DOĞANHİSAR"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "EMİRGAZİ"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "EREĞLİ"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "GÜNEYSINIR"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "HADİM"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "HALKAPINAR"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "HÜYÜK"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "ILGIN"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "KADINHANI"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "KARAPINAR"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "KULU"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "SARAYÖNÜ"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "SEYDİŞEHİR"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "TAŞKENT"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "TUZLUKÇU"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "YALIHÜYÜK"
+		},
+		{
+			"il_id": 42,
+			"isim": "KONYA",
+			"isim": "YUNAK"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "KÜTAHYA"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "ALTINTAŞ"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "ASLANAPA"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "ÇAVDARHİSAR"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "DOMANİÇ"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "DUMLUPINAR"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "EMET"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "GEDİZ"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "HİSARCIK"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "PAZARLAR"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "SİMAV"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "ŞAPHANE"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "TAVŞANLI"
+		},
+		{
+			"il_id": 43,
+			"isim": "KÜTAHYA",
+			"isim": "TUNÇBİLEK"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "MALATYA"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "AKÇADAĞ"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "ARAPKİR"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "ARGUVAN"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "BATTALGAZİ"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "DARENDE"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "DOĞANŞEHİR"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "DOĞANYOL"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "HEKİMHAN"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "KALE"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "KULUNCAK"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "PÖTÜRGE"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "YAZIHAN"
+		},
+		{
+			"il_id": 44,
+			"isim": "MALATYA",
+			"isim": "YEŞİLYURT"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "MANİSA"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "AHMETLİ"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "AKHİSAR"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "ALAŞEHİR"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "DEMİRCİ"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "GÖLMARMARA"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "GÖRDES"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "KIRKAĞAÇ"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "KÖPRÜBAŞI"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "KULA"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "SALİHLİ"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "SARIGÖL"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "SARUHANLI"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "SELENDİ"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "SOMA"
+		},
+		{
+			"il_id": 45,
+			"isim": "MANİSA",
+			"isim": "TURGUTLU"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "KAHRAMANMARAŞ"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "AFŞİN"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "ANDIRIN"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "ÇAĞLAYANCERİT"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "EKİNÖZÜ"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "ELBİSTAN"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "GÖKSUN"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "NURHAK"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "PAZARCIK"
+		},
+		{
+			"il_id": 46,
+			"isim": "KAHRAMANMARAŞ",
+			"isim": "TÜRKOĞLU"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "MARDİN"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "DARGEÇİT"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "DERİK"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "KIZILTEPE"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "MAZIDAĞI"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "MİDYAT(ESTEL)"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "NUSAYBİN"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "ÖMERLİ"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "SAVUR"
+		},
+		{
+			"il_id": 47,
+			"isim": "MARDİN",
+			"isim": "YEŞİLLİ"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "MUĞLA"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "BODRUM"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "DALAMAN"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "DATÇA"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "FETHİYE"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "KAVAKLIDERE"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "KÖYCEĞİZ"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "MARMARİS"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "MİLAS"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "ORTACA"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "ULA"
+		},
+		{
+			"il_id": 48,
+			"isim": "MUĞLA",
+			"isim": "YATAĞAN"
+		},
+		{
+			"il_id": 49,
+			"isim": "MUŞ",
+			"isim": "MUŞ"
+		},
+		{
+			"il_id": 49,
+			"isim": "MUŞ",
+			"isim": "BULANIK"
+		},
+		{
+			"il_id": 49,
+			"isim": "MUŞ",
+			"isim": "HASKÖY"
+		},
+		{
+			"il_id": 49,
+			"isim": "MUŞ",
+			"isim": "KORKUT"
+		},
+		{
+			"il_id": 49,
+			"isim": "MUŞ",
+			"isim": "MALAZGİRT"
+		},
+		{
+			"il_id": 49,
+			"isim": "MUŞ",
+			"isim": "VARTO"
+		},
+		{
+			"il_id": 50,
+			"isim": "NEVŞEHİR",
+			"isim": "NEVŞEHİR"
+		},
+		{
+			"il_id": 50,
+			"isim": "NEVŞEHİR",
+			"isim": "ACIGÖL"
+		},
+		{
+			"il_id": 50,
+			"isim": "NEVŞEHİR",
+			"isim": "AVANOS"
+		},
+		{
+			"il_id": 50,
+			"isim": "NEVŞEHİR",
+			"isim": "DERİNKUYU"
+		},
+		{
+			"il_id": 50,
+			"isim": "NEVŞEHİR",
+			"isim": "GÜLŞEHİR"
+		},
+		{
+			"il_id": 50,
+			"isim": "NEVŞEHİR",
+			"isim": "HACIBEKTAŞ"
+		},
+		{
+			"il_id": 50,
+			"isim": "NEVŞEHİR",
+			"isim": "KOZAKLI"
+		},
+		{
+			"il_id": 50,
+			"isim": "NEVŞEHİR",
+			"isim": "ÜRGÜP"
+		},
+		{
+			"il_id": 51,
+			"isim": "NİĞDE",
+			"isim": "NİĞDE"
+		},
+		{
+			"il_id": 51,
+			"isim": "NİĞDE",
+			"isim": "ALTUNHİSAR"
+		},
+		{
+			"il_id": 51,
+			"isim": "NİĞDE",
+			"isim": "BOR"
+		},
+		{
+			"il_id": 51,
+			"isim": "NİĞDE",
+			"isim": "ÇAMARDI"
+		},
+		{
+			"il_id": 51,
+			"isim": "NİĞDE",
+			"isim": "ÇİFTLİK(ÖZYURT)"
+		},
+		{
+			"il_id": 51,
+			"isim": "NİĞDE",
+			"isim": "ULUKIŞLA"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "ORDU"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "AKKUŞ"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "AYBASTI"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "ÇAMAŞ"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "ÇATALPINAR"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "ÇAYBAŞI"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "FATSA"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "GÖLKÖY"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "GÜLYALI"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "GÜRGENTEPE"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "İKİZCE"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "KARADÜZ(KABADÜZ)"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "KABATAŞ"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "KORGAN"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "KUMRU"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "MESUDİYE"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "PERŞEMBE"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "ULUBEY"
+		},
+		{
+			"il_id": 52,
+			"isim": "ORDU",
+			"isim": "ÜNYE"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "RİZE"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "ARDEŞEN"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "ÇAMLIHEMŞİN"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "ÇAYELİ"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "DEREPAZARI"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "FINDIKLI"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "GÜNEYSU"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "HEMŞİN"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "İKİZDERE"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "İYİDERE"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "KALKANDERE"
+		},
+		{
+			"il_id": 53,
+			"isim": "RİZE",
+			"isim": "PAZAR"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "ADAPAZARI"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "HENDEK"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "ARİFİYE"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "ERENLER"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "SERDİVAN"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "AKYAZI"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "FERİZLİ"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "GEYVE"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "KARAPÜRÇEK"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "KARASU"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "KAYNARCA"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "KOCAALİ"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "PAMUKOVA"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "SAPANCA"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "SÖĞÜTLÜ"
+		},
+		{
+			"il_id": 54,
+			"isim": "SAKARYA",
+			"isim": "TARAKLI"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "ATAKUM"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "İLKADIM"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "CANİK"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "TEKKEKÖY"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "ALAÇAM"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "ASARCIK"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "AYVACIK"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "BAFRA"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "ÇARŞAMBA"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "HAVZA"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "KAVAK"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "LADİK"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "19 MAYIS(BALLICA)"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "SALIPAZARI"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "TERME"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "VEZİRKÖPRÜ"
+		},
+		{
+			"il_id": 55,
+			"isim": "SAMSUN",
+			"isim": "YAKAKENT"
+		},
+		{
+			"il_id": 56,
+			"isim": "SİİRT",
+			"isim": "SİİRT"
+		},
+		{
+			"il_id": 56,
+			"isim": "SİİRT",
+			"isim": "BAYKAN"
+		},
+		{
+			"il_id": 56,
+			"isim": "SİİRT",
+			"isim": "ERUH"
+		},
+		{
+			"il_id": 56,
+			"isim": "SİİRT",
+			"isim": "KURTALAN"
+		},
+		{
+			"il_id": 56,
+			"isim": "SİİRT",
+			"isim": "PERVARİ"
+		},
+		{
+			"il_id": 56,
+			"isim": "SİİRT",
+			"isim": "AYDINLAR"
+		},
+		{
+			"il_id": 56,
+			"isim": "SİİRT",
+			"isim": "ŞİRVAN"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "SİNOP"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "AYANCIK"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "BOYABAT"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "DİKMEN"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "DURAĞAN"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "ERFELEK"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "GERZE"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "SARAYDÜZÜ"
+		},
+		{
+			"il_id": 57,
+			"isim": "SİNOP",
+			"isim": "TÜRKELİ"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "SİVAS"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "AKINCILAR"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "ALTINYAYLA"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "DİVRİĞİ"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "DOĞANŞAR"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "GEMEREK"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "GÖLOVA"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "GÜRÜN"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "HAFİK"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "İMRANLI"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "KANGAL"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "KOYULHİSAR"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "SUŞEHRİ"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "ŞARKIŞLA"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "ULAŞ"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "YILDIZELİ"
+		},
+		{
+			"il_id": 58,
+			"isim": "SİVAS",
+			"isim": "ZARA"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "TEKİRDAĞ"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "ÇERKEZKÖY"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "ÇORLU"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "HAYRABOLU"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "MALKARA"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "MARMARAEREĞLİSİ"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "MURATLI"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "SARAY"
+		},
+		{
+			"il_id": 59,
+			"isim": "TEKİRDAĞ",
+			"isim": "ŞARKÖY"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "TOKAT"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "ALMUS"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "ARTOVA"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "BAŞÇİFTLİK"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "ERBAA"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "NİKSAR"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "PAZAR"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "REŞADİYE"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "SULUSARAY"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "TURHAL"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "YEŞİLYURT"
+		},
+		{
+			"il_id": 60,
+			"isim": "TOKAT",
+			"isim": "ZİLE"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "TRABZON"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "AKÇAABAT"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "ARAKLI"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "ARSİN"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "BEŞİKDÜZÜ"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "ÇARŞIBAŞI"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "ÇAYKARA"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "DERNEKPAZARI"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "DÜZKÖY"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "HAYRAT"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "KÖPRÜBAŞI"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "MAÇKA"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "OF"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "SÜRMENE"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "ŞALPAZARI"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "TONYA"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "VAKFIKEBİR"
+		},
+		{
+			"il_id": 61,
+			"isim": "TRABZON",
+			"isim": "YOMRA"
+		},
+		{
+			"il_id": 62,
+			"isim": "TUNCELİ",
+			"isim": "TUNCELİ"
+		},
+		{
+			"il_id": 62,
+			"isim": "TUNCELİ",
+			"isim": "ÇEMİŞGEZEK"
+		},
+		{
+			"il_id": 62,
+			"isim": "TUNCELİ",
+			"isim": "HOZAT"
+		},
+		{
+			"il_id": 62,
+			"isim": "TUNCELİ",
+			"isim": "MAZGİRT"
+		},
+		{
+			"il_id": 62,
+			"isim": "TUNCELİ",
+			"isim": "NAZIMİYE"
+		},
+		{
+			"il_id": 62,
+			"isim": "TUNCELİ",
+			"isim": "OVACIK"
+		},
+		{
+			"il_id": 62,
+			"isim": "TUNCELİ",
+			"isim": "PERTEK"
+		},
+		{
+			"il_id": 62,
+			"isim": "TUNCELİ",
+			"isim": "PÜLÜMÜR"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "ŞANLIURFA"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "AKÇAKALE"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "BİRECİK"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "BOZOVA"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "CEYLANPINAR"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "HALFETİ"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "HARRAN"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "HİLVAN"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "SİVEREK"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "SURUÇ"
+		},
+		{
+			"il_id": 63,
+			"isim": "ŞANLIURFA",
+			"isim": "VİRANŞEHİR"
+		},
+		{
+			"il_id": 64,
+			"isim": "UŞAK",
+			"isim": "UŞAK"
+		},
+		{
+			"il_id": 64,
+			"isim": "UŞAK",
+			"isim": "BANAZ"
+		},
+		{
+			"il_id": 64,
+			"isim": "UŞAK",
+			"isim": "EŞME"
+		},
+		{
+			"il_id": 64,
+			"isim": "UŞAK",
+			"isim": "KARAHALLI"
+		},
+		{
+			"il_id": 64,
+			"isim": "UŞAK",
+			"isim": "SİVASLI"
+		},
+		{
+			"il_id": 64,
+			"isim": "UŞAK",
+			"isim": "ULUBEY"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "VAN"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "BAHÇESARAY"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "BAŞKALE"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "ÇALDIRAN"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "ÇATAK"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "EDREMİT(GÜMÜŞDERE)"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "ERCİŞ"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "GEVAŞ"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "GÜRPINAR"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "MURADİYE"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "ÖZALP"
+		},
+		{
+			"il_id": 65,
+			"isim": "VAN",
+			"isim": "SARAY"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "YOZGAT"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "AKDAĞMADENİ"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "AYDINCIK"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "BOĞAZLIYAN"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "ÇANDIR"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "ÇAYIRALAN"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "ÇEKEREK"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "KADIŞEHRİ"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "SARAYKENT"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "SARIKAYA"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "SORGUN"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "ŞEFAATLİ"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "YENİFAKILI"
+		},
+		{
+			"il_id": 66,
+			"isim": "YOZGAT",
+			"isim": "YERKÖY"
+		},
+		{
+			"il_id": 67,
+			"isim": "ZONGULDAK",
+			"isim": "ZONGULDAK"
+		},
+		{
+			"il_id": 67,
+			"isim": "ZONGULDAK",
+			"isim": "ALAPLI"
+		},
+		{
+			"il_id": 67,
+			"isim": "ZONGULDAK",
+			"isim": "ÇAYCUMA"
+		},
+		{
+			"il_id": 67,
+			"isim": "ZONGULDAK",
+			"isim": "DEVREK"
+		},
+		{
+			"il_id": 67,
+			"isim": "ZONGULDAK",
+			"isim": "KARADENİZEREĞLİ"
+		},
+		{
+			"il_id": 67,
+			"isim": "ZONGULDAK",
+			"isim": "GÖKÇEBEY"
+		},
+		{
+			"il_id": 68,
+			"isim": "AKSARAY",
+			"isim": "AKSARAY"
+		},
+		{
+			"il_id": 68,
+			"isim": "AKSARAY",
+			"isim": "AĞAÇÖREN"
+		},
+		{
+			"il_id": 68,
+			"isim": "AKSARAY",
+			"isim": "ESKİL"
+		},
+		{
+			"il_id": 68,
+			"isim": "AKSARAY",
+			"isim": "GÜLAĞAÇ(AĞAÇLI)"
+		},
+		{
+			"il_id": 68,
+			"isim": "AKSARAY",
+			"isim": "GÜZELYURT"
+		},
+		{
+			"il_id": 68,
+			"isim": "AKSARAY",
+			"isim": "ORTAKÖY"
+		},
+		{
+			"il_id": 68,
+			"isim": "AKSARAY",
+			"isim": "SARIYAHŞİ"
+		},
+		{
+			"il_id": 69,
+			"isim": "BAYBURT",
+			"isim": "BAYBURT"
+		},
+		{
+			"il_id": 69,
+			"isim": "BAYBURT",
+			"isim": "AYDINTEPE"
+		},
+		{
+			"il_id": 69,
+			"isim": "BAYBURT",
+			"isim": "DEMİRÖZÜ"
+		},
+		{
+			"il_id": 70,
+			"isim": "KARAMAN",
+			"isim": "KARAMAN"
+		},
+		{
+			"il_id": 70,
+			"isim": "KARAMAN",
+			"isim": "AYRANCI"
+		},
+		{
+			"il_id": 70,
+			"isim": "KARAMAN",
+			"isim": "BAŞYAYLA"
+		},
+		{
+			"il_id": 70,
+			"isim": "KARAMAN",
+			"isim": "ERMENEK"
+		},
+		{
+			"il_id": 70,
+			"isim": "KARAMAN",
+			"isim": "KAZIMKARABEKİR"
+		},
+		{
+			"il_id": 70,
+			"isim": "KARAMAN",
+			"isim": "SARIVELİLER"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "KIRIKKALE"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "BAHŞİLİ"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "BALIŞEYH"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "ÇELEBİ"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "DELİCE"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "KARAKEÇİLİ"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "KESKİN"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "SULAKYURT"
+		},
+		{
+			"il_id": 71,
+			"isim": "KIRIKKALE",
+			"isim": "YAHŞİHAN"
+		},
+		{
+			"il_id": 72,
+			"isim": "BATMAN",
+			"isim": "BATMAN"
+		},
+		{
+			"il_id": 72,
+			"isim": "BATMAN",
+			"isim": "BEŞİRİ"
+		},
+		{
+			"il_id": 72,
+			"isim": "BATMAN",
+			"isim": "GERCÜŞ"
+		},
+		{
+			"il_id": 72,
+			"isim": "BATMAN",
+			"isim": "HASANKEYF"
+		},
+		{
+			"il_id": 72,
+			"isim": "BATMAN",
+			"isim": "KOZLUK"
+		},
+		{
+			"il_id": 72,
+			"isim": "BATMAN",
+			"isim": "SASON"
+		},
+		{
+			"il_id": 73,
+			"isim": "ŞIRNAK",
+			"isim": "ŞIRNAK"
+		},
+		{
+			"il_id": 73,
+			"isim": "ŞIRNAK",
+			"isim": "BEYTÜŞŞEBAP"
+		},
+		{
+			"il_id": 73,
+			"isim": "ŞIRNAK",
+			"isim": "CİZRE"
+		},
+		{
+			"il_id": 73,
+			"isim": "ŞIRNAK",
+			"isim": "GÜÇLÜKONAK"
+		},
+		{
+			"il_id": 73,
+			"isim": "ŞIRNAK",
+			"isim": "İDİL"
+		},
+		{
+			"il_id": 73,
+			"isim": "ŞIRNAK",
+			"isim": "SİLOPİ"
+		},
+		{
+			"il_id": 73,
+			"isim": "ŞIRNAK",
+			"isim": "ULUDERE"
+		},
+		{
+			"il_id": 74,
+			"isim": "BARTIN",
+			"isim": "BARTIN"
+		},
+		{
+			"il_id": 74,
+			"isim": "BARTIN",
+			"isim": "AMASRA"
+		},
+		{
+			"il_id": 74,
+			"isim": "BARTIN",
+			"isim": "KURUCAŞİLE"
+		},
+		{
+			"il_id": 74,
+			"isim": "BARTIN",
+			"isim": "ULUS"
+		},
+		{
+			"il_id": 75,
+			"isim": "ARDAHAN",
+			"isim": "ARDAHAN"
+		},
+		{
+			"il_id": 75,
+			"isim": "ARDAHAN",
+			"isim": "ÇILDIR"
+		},
+		{
+			"il_id": 75,
+			"isim": "ARDAHAN",
+			"isim": "DAMAL"
+		},
+		{
+			"il_id": 75,
+			"isim": "ARDAHAN",
+			"isim": "GÖLE"
+		},
+		{
+			"il_id": 75,
+			"isim": "ARDAHAN",
+			"isim": "HANAK"
+		},
+		{
+			"il_id": 75,
+			"isim": "ARDAHAN",
+			"isim": "POSOF"
+		},
+		{
+			"il_id": 76,
+			"isim": "IĞDIR",
+			"isim": "IĞDIR"
+		},
+		{
+			"il_id": 76,
+			"isim": "IĞDIR",
+			"isim": "ARALIK"
+		},
+		{
+			"il_id": 76,
+			"isim": "IĞDIR",
+			"isim": "KARAKOYUNLU"
+		},
+		{
+			"il_id": 76,
+			"isim": "IĞDIR",
+			"isim": "TUZLUCA"
+		},
+		{
+			"il_id": 77,
+			"isim": "YALOVA",
+			"isim": "YALOVA"
+		},
+		{
+			"il_id": 77,
+			"isim": "YALOVA",
+			"isim": "ALTINOVA"
+		},
+		{
+			"il_id": 77,
+			"isim": "YALOVA",
+			"isim": "ARMUTLU"
+		},
+		{
+			"il_id": 77,
+			"isim": "YALOVA",
+			"isim": "ÇİFTLİKKÖY"
+		},
+		{
+			"il_id": 77,
+			"isim": "YALOVA",
+			"isim": "ÇINARCIK"
+		},
+		{
+			"il_id": 77,
+			"isim": "YALOVA",
+			"isim": "TERMAL"
+		},
+		{
+			"il_id": 78,
+			"isim": "KARABÜK",
+			"isim": "KARABÜK"
+		},
+		{
+			"il_id": 78,
+			"isim": "KARABÜK",
+			"isim": "EFLANİ"
+		},
+		{
+			"il_id": 78,
+			"isim": "KARABÜK",
+			"isim": "ESKİPAZAR"
+		},
+		{
+			"il_id": 78,
+			"isim": "KARABÜK",
+			"isim": "OVACIK"
+		},
+		{
+			"il_id": 78,
+			"isim": "KARABÜK",
+			"isim": "SAFRANBOLU"
+		},
+		{
+			"il_id": 78,
+			"isim": "KARABÜK",
+			"isim": "YENİCE"
+		},
+		{
+			"il_id": 79,
+			"isim": "KİLİS",
+			"isim": "KİLİS"
+		},
+		{
+			"il_id": 79,
+			"isim": "KİLİS",
+			"isim": "ELBEYLİ"
+		},
+		{
+			"il_id": 79,
+			"isim": "KİLİS",
+			"isim": "MUSABEYLİ"
+		},
+		{
+			"il_id": 79,
+			"isim": "KİLİS",
+			"isim": "POLATELİ"
+		},
+		{
+			"il_id": 80,
+			"isim": "OSMANİYE",
+			"isim": "OSMANİYE"
+		},
+		{
+			"il_id": 80,
+			"isim": "OSMANİYE",
+			"isim": "BAHÇE"
+		},
+		{
+			"il_id": 80,
+			"isim": "OSMANİYE",
+			"isim": "DÜZİÇİ"
+		},
+		{
+			"il_id": 80,
+			"isim": "OSMANİYE",
+			"isim": "HASANBEYLİ"
+		},
+		{
+			"il_id": 80,
+			"isim": "OSMANİYE",
+			"isim": "KADİRLİ"
+		},
+		{
+			"il_id": 80,
+			"isim": "OSMANİYE",
+			"isim": "SUMBAS"
+		},
+		{
+			"il_id": 80,
+			"isim": "OSMANİYE",
+			"isim": "TOPRAKKALE"
+		},
+		{
+			"il_id": 81,
+			"isim": "DÜZCE",
+			"isim": "DÜZCE"
+		},
+		{
+			"il_id": 81,
+			"isim": "DÜZCE",
+			"isim": "AKÇAKOCA"
+		},
+		{
+			"il_id": 81,
+			"isim": "DÜZCE",
+			"isim": "CUMAYERİ"
+		},
+		{
+			"il_id": 81,
+			"isim": "DÜZCE",
+			"isim": "ÇİLİMLİ"
+		},
+		{
+			"il_id": 81,
+			"isim": "DÜZCE",
+			"isim": "GÖLYAKA"
+		},
+		{
+			"il_id": 81,
+			"isim": "DÜZCE",
+			"isim": "GÜMÜŞOVA"
+		},
+		{
+			"il_id": 81,
+			"isim": "DÜZCE",
+			"isim": "KAYNAŞLI"
+		},
+		{
+			"il_id": 81,
+			"isim": "DÜZCE",
+			"isim": "YIĞILCA"
+		}
+	]
+}
